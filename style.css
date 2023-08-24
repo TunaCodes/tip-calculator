@@ -1,0 +1,27 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: black;
+}
+
+.navbar {
+  background-color: #7f7f7f;
+  font-family: "inter";
+  font-weight: bold;
+  font-size: x-large;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  /* padding-bottom: 80px; */
+  align-items: center;
+  padding: 20px;
+  color: white;
+}
+
+.calc {
+  font-size: medium;
+}
